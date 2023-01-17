@@ -162,6 +162,12 @@ text-align: center;
     width: 230px;
     height: 340px;
     padding: 30px;
+    font-weight: 700;
+}
+
+.img{
+    text-align: left;
+    
 }
 
 .skills-title{
@@ -174,6 +180,7 @@ text-align: center;
 .skills-description{
     font-style: normal;
    color: #757575;
+   text-align:left ;
 }
 /* resume styles */
 
@@ -217,6 +224,8 @@ text-align: center;
     color: #757575;
     margin-top: 20px;
     margin-bottom: 30px;
+    text-align: left;
+
 }
     .resume-btn{
    
@@ -246,7 +255,7 @@ text-align: center;
 }
    
 input{
-    height: 64px;
+    height: 34px;
 }
 
 .section-description{
