@@ -1,6 +1,7 @@
 
-body{
-    font-family: 'open sans';
+*{
+    margin: 0;
+    font-family: 'Open sans',sans-serif;
 }
 
 
@@ -174,3 +175,49 @@ text-align: center;
     font-style: normal;
    color: #757575;
 }
+/* resume styles */
+
+.resume-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-title{
+    text-align: center;
+    margin-top: 130px;
+}
+
+
+
+.resume .resume-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #474747;
+    margin-top: 113px;
+}
+
+
+.resume .title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    margin-top: 30px;
+}
+.resume .sub-title{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    margin-top: 10px;
+}
+.resume .description{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+    .resume-btn{
+   
+    margin-top: 30px;
+    text-align: center;
+    }
